@@ -9,4 +9,4 @@
 
 ## About Laravel
 
-Project run in laravel/sail
+Project run in '''laravel/sail'''
